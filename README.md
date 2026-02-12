@@ -20,3 +20,4 @@ Then open the URL shown in the terminal (usually `http://localhost:5173`).
 - **Navigation** — “Today” and ‹ › to move between weeks; mini calendar in the sidebar shows the current week.
 
 First steps are light nudges, not a to‑do list — one idea per day off to help get moving.
+# jakesfirstmove
